@@ -1,0 +1,4 @@
+
+export const ACTION_TYPE = {
+    INVENTORY_ADDTOCART: 'INVENTORY_ADDTOCART' 
+};
