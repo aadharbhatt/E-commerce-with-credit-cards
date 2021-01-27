@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-commerce-with-credit-cards/static/css/main.de9ea06d.chunk.css",
+    "main.js": "/E-commerce-with-credit-cards/static/js/main.3871032e.chunk.js",
+    "main.js.map": "/E-commerce-with-credit-cards/static/js/main.3871032e.chunk.js.map",
+    "runtime-main.js": "/E-commerce-with-credit-cards/static/js/runtime-main.86d6c74a.js",
+    "runtime-main.js.map": "/E-commerce-with-credit-cards/static/js/runtime-main.86d6c74a.js.map",
+    "static/css/2.658248ec.chunk.css": "/E-commerce-with-credit-cards/static/css/2.658248ec.chunk.css",
+    "static/js/2.1ae67e45.chunk.js": "/E-commerce-with-credit-cards/static/js/2.1ae67e45.chunk.js",
+    "static/js/2.1ae67e45.chunk.js.map": "/E-commerce-with-credit-cards/static/js/2.1ae67e45.chunk.js.map",
+    "index.html": "/E-commerce-with-credit-cards/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/E-commerce-with-credit-cards/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.de9ea06d.chunk.css.map": "/E-commerce-with-credit-cards/static/css/main.de9ea06d.chunk.css.map",
+    "static/js/2.1ae67e45.chunk.js.LICENSE.txt": "/E-commerce-with-credit-cards/static/js/2.1ae67e45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d6c74a.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.1ae67e45.chunk.js",
+    "static/css/main.de9ea06d.chunk.css",
+    "static/js/main.3871032e.chunk.js"
+  ]
+}
