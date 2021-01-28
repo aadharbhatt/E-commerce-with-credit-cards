@@ -26,7 +26,7 @@ class OrderStatus extends React.Component {
                 console.error(error);
             }
         }, function (stage, expired) {
-            
+            console.warn(stage)
             switch (stage) {
                 case "PAYMENT_HANDLE_NOT_CREATED":
                 case "PAYMENT_HANDLE_CREATED":

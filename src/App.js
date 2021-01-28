@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import { Redirect } from 'react-router';
 import { Provider } from 'react-redux';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -32,10 +32,10 @@ const App = () => {
   return (
     <Provider store={store}>
       <ThemeProvider theme={theme}>
-        <BrowserRouter>
+        <HashRouter>
           <SideNav />
           <Route render={() => paths} />
-        </BrowserRouter>
+        </HashRouter>
       </ThemeProvider>
     </Provider>
   );
